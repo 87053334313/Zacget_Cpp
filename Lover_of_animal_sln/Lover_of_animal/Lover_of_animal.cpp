@@ -20,7 +20,7 @@ public:
 
     virtual  void SetYourDatas() = 0
     {
-        cout << "Ваша роль любитель собак\n";
+       
         cout << "Введите ваше имя\n";
         cin >> Name;
         cout << "Введите ваше фамилию\n";

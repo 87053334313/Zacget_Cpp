@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9e4aec8-6460-4ba2-a203-bc080d754a17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/Lover_of_animal_sln/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lover_of_animal_sln/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Lover_of_animal_sln/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Lover_of_animal_sln/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Lover_of_animal.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Lover_of_animal.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Lover_of_animal.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Lover_of_animal.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug/Lover_of_animal.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Debug/Lover_of_animal.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/Debug/Lover_of_animal.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/Debug/Lover_of_animal.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/Debug/Lover_of_animal.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/Debug/Lover_of_animal.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/Lover_of_animal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/Lover_of_animal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lover_of_animal/MyText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lover_of_animal/MyText.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vzeCTYEwCfMHbyo7oWJJSJPdbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9e4aec8-6460-4ba2-a203-bc080d754a17" name="Default Changelist" comment="" />
+      <created>1627569223778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627569223778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
